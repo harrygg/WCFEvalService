@@ -1,0 +1,6 @@
+C:\Users\genevh\Documents\GitHub\EvalServiceLibrary\Client\bin\Debug\Client.exe.config
+C:\Users\genevh\Documents\GitHub\EvalServiceLibrary\Client\bin\Debug\Client.exe
+C:\Users\genevh\Documents\GitHub\EvalServiceLibrary\Client\bin\Debug\Client.pdb
+C:\Users\genevh\Documents\GitHub\EvalServiceLibrary\Client\obj\x86\Debug\WCF Simple Client.csprojResolveAssemblyReference.cache
+C:\Users\genevh\Documents\GitHub\EvalServiceLibrary\Client\obj\x86\Debug\Client.exe
+C:\Users\genevh\Documents\GitHub\EvalServiceLibrary\Client\obj\x86\Debug\Client.pdb

@@ -1,0 +1,8 @@
+C:\Users\genevh\Documents\GitHub\EvalServiceLibrary\EvalServiceHost\bin\Debug\EvalServiceHost.exe.config
+C:\Users\genevh\Documents\GitHub\EvalServiceLibrary\EvalServiceHost\bin\Debug\EvalServiceHost.exe
+C:\Users\genevh\Documents\GitHub\EvalServiceLibrary\EvalServiceHost\bin\Debug\EvalServiceHost.pdb
+C:\Users\genevh\Documents\GitHub\EvalServiceLibrary\EvalServiceHost\bin\Debug\EvalServiceLibrary.dll
+C:\Users\genevh\Documents\GitHub\EvalServiceLibrary\EvalServiceHost\bin\Debug\EvalServiceLibrary.pdb
+C:\Users\genevh\Documents\GitHub\EvalServiceLibrary\EvalServiceHost\obj\x86\Debug\EvalServiceHost.csprojResolveAssemblyReference.cache
+C:\Users\genevh\Documents\GitHub\EvalServiceLibrary\EvalServiceHost\obj\x86\Debug\EvalServiceHost.exe
+C:\Users\genevh\Documents\GitHub\EvalServiceLibrary\EvalServiceHost\obj\x86\Debug\EvalServiceHost.pdb
